@@ -1,0 +1,154 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19532147300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I want to login to app",
+            "match": {
+              "location": "StepDefLogin.i_want_to_login_to_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1891109800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to enter Admin",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 16
+                }
+              ],
+              "location": "StepDefLogin.i_want_to_enter_Admin(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3699251700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I want to enterpw admin123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 18
+                }
+              ],
+              "location": "StepDefLogin.i_want_to_enter_admin(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 18009566600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I want to login to app",
+            "match": {
+              "location": "StepDefLogin.i_want_to_login_to_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1370036200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to enter Admin",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 16
+                }
+              ],
+              "location": "StepDefLogin.i_want_to_enter_Admin(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3528297000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I want to enterpw admin12",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin12",
+                  "offset": 18
+                }
+              ],
+              "location": "StepDefLogin.i_want_to_enter_admin(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "Include/features/Login.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mouse Hover</name>
+   <tag></tag>
+   <elementGuidId>fcbe0c5e-9f0f-406e-99fa-b739fbd59fa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mousehover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='mousehover']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>978909cd-6264-4bb9-ac98-c52fd3125517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mousehover</value>
+      <webElementGuid>ae506619-39e9-4637-be4c-6441cbe3efe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>2a2b9cbf-6286-4611-ad5e-0a217d36a92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mouse Hover</value>
+      <webElementGuid>88e71916-859e-4706-adef-8959a6e57de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mousehover&quot;)</value>
+      <webElementGuid>90160aab-26d8-4114-b8a9-bb6c78656a68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='mousehover']</value>
+      <webElementGuid>2e2cda06-240e-4147-840c-c76fc8d63043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mouse Hover Example'])[1]/following::button[1]</value>
+      <webElementGuid>97665ae9-c148-4e2f-a3c7-626052c6dde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Amount Collected: 296'])[1]/following::button[1]</value>
+      <webElementGuid>02c3c6b5-bd02-403d-b985-45a026be28ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/preceding::button[1]</value>
+      <webElementGuid>3db4ab02-7b93-4775-8aea-1eb4a928260c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reload'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8079523-bcfe-4516-ab04-71da43e2184e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mouse Hover']/parent::*</value>
+      <webElementGuid>98758b27-c418-4be8-9511-7adf16475149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/button</value>
+      <webElementGuid>3ec20cc0-c435-478e-8ad6-d14f5191afee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'mousehover' and (text() = 'Mouse Hover' or . = 'Mouse Hover')]</value>
+      <webElementGuid>1e0afcd3-a108-4f41-9db9-7b4aa1fff639</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

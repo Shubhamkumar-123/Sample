@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_contactrahulshettyacademy.com_fa fa-youtube</name>
+   <tag></tag>
+   <elementGuidId>8af99c8e-4b74-47c9-b909-953aaf5af388</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-youtube</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>629d5b2e-bdd4-4d8f-9edc-b3cf2a4ae897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-youtube</value>
+      <webElementGuid>c791798f-cec3-4e70-a934-70249c061b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;main-header&quot;]/div[@class=&quot;header-top&quot;]/div[@class=&quot;auto-container&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;top-right clearfix&quot;]/ul[@class=&quot;social-icon-one&quot;]/li[1]/a[1]/span[@class=&quot;fa fa-youtube&quot;]</value>
+      <webElementGuid>042dbb8a-2f37-42ce-972c-ffe7eb0ba48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/frames/Page_Practice Page/iframe_iFrame Example_iframe-name</value>
+      <webElementGuid>58ed1807-3c90-40f7-a99c-cb5cef89245a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>3b406b19-aa72-479a-a2a8-c201594d81af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

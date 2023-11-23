@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\Shubhamkumar.N\Desktop\login.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2023-11-23T08:17:27.645</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "student",
+      "checked": true
+    },
+    {
+      "value": "Password123",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "student",
+      "checked": true
+    },
+    {
+      "value": "Password12",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
